@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-ukrainian
 Version:	47552
-Release:	1
+Release:	2
 Summary:	Ukrainian language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-ukrainian
