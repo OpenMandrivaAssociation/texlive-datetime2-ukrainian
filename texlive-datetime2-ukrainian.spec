@@ -3,7 +3,7 @@ Version:	47552
 Release:	2
 Summary:	Ukrainian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-ukrainian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-ukrainian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-ukrainian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-ukrainian.doc.r%{version}.tar.xz
